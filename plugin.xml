@@ -4,7 +4,6 @@
   <description>Realm mobile database plugin for Cordova.</description>
   <author>Airam Rguez</author>
   <keywords>realm, database, nosql, mobile, ios, android</keywords>
-  <repo>https://github.com/airamrguez/cordova-plugin-realm</repo>
   <info>
     IMPORTANT: This plugin is still under development. Use it on your own risk.
   </info>
